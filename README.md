@@ -19,13 +19,19 @@ A gamified quiz application built with Flutter, offering an engaging learning ex
 
 ### Screenshots
 
-[Include screenshots showcasing the app’s design and functionality]
+[https://drive.google.com/drive/folders/1mg7oP9yYY2OWALTMBjMP_LQxwHuHO0wF]
 
 ---
 
 ### Video Demo
 
-[Insert a link to your app’s video demo]
+[https://drive.google.com/file/d/1ltWlUnH-45epXiKLoUrLUbIm4ANfwF5M/view?usp=drivesdk]
+
+---
+
+### Apk
+
+[https://drive.google.com/file/d/1mJ1cWjlKoMtDbB2vrAjfWy-NLuk93Pfm/view?usp=drivesdk]
 
 ---
 
@@ -43,15 +49,19 @@ A gamified quiz application built with Flutter, offering an engaging learning ex
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/Shavukarusasikumar/QuizApp.git]
    ```
 
-2. **Install Dependencies**:
+2. **Flutter Version**:
+   ```bash
+   3.24.3
+   ```
+3. **Install Dependencies**:
    ```bash
    flutter pub get
    ```
 
-3. **Run the App**:
+4. **Run the App**:
    ```bash
    flutter run
    ```
@@ -65,8 +75,8 @@ lib/
 ├── blocs/         # Business Logic Components
 ├── models/        # Data Models
 ├── repositories/  # Data Layer
-├── screens/       # UI Screens
 ├── services/      # Services Layer
+├── View/          # UI Screens
 └── main.dart      # App Entry Point
 ```
 
